@@ -1,2 +1,6 @@
-# clear_forks
-clear forks
+# 清理 Github Fork 库
+
+1. 列出所有库
+2. 查询是否是 fork 的库
+3. 若为 fork，该库是否以标星
+4. 标星则删除，未标则标星后删除
